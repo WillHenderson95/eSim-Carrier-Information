@@ -40,5 +40,10 @@
     "eSIM_Page": "https://boost.com.au/pages/mobile-support",
     "How_to_get_eSIM": "eSIM is not currently supported by Boost Mobile.",
     "eSIM_FAQs": "Physical SIM cards are required for all Boost Mobile services."
-  }
+  },
+  "Circles.life": {
+    "eSIM_Support": "No",
+    "eSIM_Page": "https://boost.com.au/pages/mobile-support",
+    "How_to_get_eSIM": "eSIM is not currently supported by Boost Mobile.",
+    "eSIM_FAQs": "Physical SIM cards are required for all Boost Mobile services."
 }
