@@ -16,5 +16,12 @@
     "Carrier Support": "https://www.vodafone.com.au/support/mobile-devices/esim",
     "eSIM Summary": "You can request an eSIM via the My Vodafone app or by visiting a Vodafone store.",
     "Other Information": ""
+  },
+  "Aldi Mobile": {
+    "eSIM Support": "No",
+    "Carrier Support": "https://www.vodafone.com.au/support/mobile-devices/esim",
+    "eSIM Summary": "You can request an eSIM via the My Vodafone app or by visiting a Vodafone store.",
+    "Other Information": "",
+    "eSIM Alert": "eSIM is not supported until October 2025. Position Carrier Activation in store"
   }
 }  
