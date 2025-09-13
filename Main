@@ -6,53 +6,53 @@
     "eSIM FAQs": "eSIM is available for most plans. You must have an eSIM-compatible device. Telstra has a detailed support page on their website."
   },
   "Aldi Mobile": {
-    "eSIM_Support": "No",
-    "eSIM_Page": "",
-    "How_to_get_eSIM": "",
-    "eSIM_Alert": "eSIM is not supported until October, position Carrier Activation.",
-    "eSIM_FAQs": "eSIM is available for most plans. You must have an eSIM-compatible device. Telstra has a detailed support page on their website."
+    "eSIM Support": "No",
+    "eSIM Page": "",
+    "How to get eSIM": "",
+    "eSIM Alert": "eSIM is not supported until October, position Carrier Activation.",
+    "eSIM FAQs": "eSIM is available for most plans. You must have an eSIM-compatible device. Telstra has a detailed support page on their website."
   },
   "Optus": {
-    "eSIM_Support": "Yes",
-    "eSIM_Page": "https://www.optus.com.au/support/esim",
-    "How_to_get_eSIM": "Available for new and existing customers. You can get an eSIM by scanning a QR code provided by Optus or through their app.",
-    "eSIM_FAQs": "Optus supports eSIM for both prepaid and postpaid plans. The process is quick and can be done remotely."
+    "eSIM Support": "Yes",
+    "eSIM Page": "https://www.optus.com.au/support/esim",
+    "How to get eSIM": "Available for new and existing customers. You can get an eSIM by scanning a QR code provided by Optus or through their app.",
+    "eSIM FAQs": "Optus supports eSIM for both prepaid and postpaid plans. The process is quick and can be done remotely."
   },
   "Vodafone": {
-    "eSIM_Support": "Yes",
-    "eSIM_Page": "https://www.vodafone.com.au/support/esim",
-    "How_to_get_eSIM": "Visit a Vodafone store or contact customer service to request an eSIM. You will be sent a QR code to activate.",
-    "eSIM_FAQs": "Vodafone offers eSIM for a wide range of devices and plans. The QR code can only be used on one device at a time."
+    "eSIM Support": "Yes",
+    "eSIM Page": "https://www.vodafone.com.au/support/esim",
+    "How to get eSIM": "Visit a Vodafone store or contact customer service to request an eSIM. You will be sent a QR code to activate.",
+    "eSIM FAQs": "Vodafone offers eSIM for a wide range of devices and plans. The QR code can only be used on one device at a time."
   },
   "Amaysim": {
-    "eSIM_Support": "Yes",
-    "eSIM_Page": "https://www.amaysim.com.au/help/esim",
-    "How_to_get_eSIM": "Log in to your Amaysim account online to convert your physical SIM to an eSIM.",
-    "eSIM_FAQs": "eSIM is only available for existing customers and cannot be used with new activations."
+    "eSIM Support": "Yes",
+    "eSIM Page": "https://www.amaysim.com.au/help/esim",
+    "How to get eSIM": "Log in to your Amaysim account online to convert your physical SIM to an eSIM.",
+    "eSIM FAQs": "eSIM is only available for existing customers and cannot be used with new activations."
   },
   "TPG": {
-    "eSIM_Support": "No",
-    "eSIM_Page": "https://www.tpg.com.au/mobile",
-    "How_to_get_eSIM": "TPG does not currently offer eSIM support.",
-    "eSIM_Alert": "eSim isnt support example text",
-    "eSIM_FAQs": "Physical SIM cards are the only option for TPG mobile plans."
+    "eSIM Support": "No",
+    "eSIM Page": "https://www.tpg.com.au/mobile",
+    "How to get eSIM": "TPG does not currently offer eSIM support.",
+    "eSIM Alert": "eSim isnt support example text",
+    "eSIM FAQs": "Physical SIM cards are the only option for TPG mobile plans."
   },
   "Kogan Mobile": {
-    "eSIM_Support": "Yes",
-    "eSIM_Page": "https://www.kogan.com/au/help-centre/esim-support/",
-    "How_to_get_eSIM": "Kogan Mobile provides a process for converting a physical SIM to an eSIM through your online account.",
-    "eSIM_FAQs": "Check their website for device compatibility and the latest information."
+    "eSIM Support": "Yes",
+    "eSIM Page": "https://www.kogan.com/au/help-centre/esim-support/",
+    "How to get eSIM": "Kogan Mobile provides a process for converting a physical SIM to an eSIM through your online account.",
+    "eSIM FAQs": "Check their website for device compatibility and the latest information."
   },
   "Boost Mobile": {
-    "eSIM_Support": "No",
-    "eSIM_Page": "https://boost.com.au/pages/mobile-support",
-    "How_to_get_eSIM": "eSIM is not currently supported by Boost Mobile.",
-    "eSIM_FAQs": "Physical SIM cards are required for all Boost Mobile services."
+    "eSIM Support": "No",
+    "eSIM Page": "https://boost.com.au/pages/mobile-support",
+    "How to get eSIM": "eSIM is not currently supported by Boost Mobile.",
+    "eSIM FAQs": "Physical SIM cards are required for all Boost Mobile services."
   },
   "Circles.life": {
-    "eSIM_Support": "No",
-    "eSIM_Page": "https://boost.com.au/pages/mobile-support",
-    "How_to_get_eSIM": "eSIM is not currently supported by Boost Mobile.",
-    "eSIM_FAQs": "Physical SIM cards are required for all Boost Mobile services."
+    "eSIM Support": "No",
+    "eSIM Page": "https://boost.com.au/pages/mobile-support",
+    "How to get eSIM": "eSIM is not currently supported by Boost Mobile.",
+    "eSIM FAQs": "Physical SIM cards are required for all Boost Mobile services."
 }
 }  
