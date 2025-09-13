@@ -2,6 +2,7 @@
   "Telstra": {
     "eSIM Support": "Yes",
     "Carrier Support": "https://www.telstra.com.au/support/mobiles-devices/esim-help",
-    "eSIM Summary": "You can request an eSIM via the My Telstra app or by visiting a Telstra store."
+    "eSIM Summary": "You can request an eSIM via the My Telstra app or by visiting a Telstra store.",
+    "Other Information": ""
   }
 }  
