@@ -1,9 +1,9 @@
 {
   "Telstra": {
-    "eSIM_Support": "Yes",
-    "eSIM_Page": "https://www.telstra.com.au/support/mobiles-devices/esim-help",
-    "How_to_get_eSIM": "You can request an eSIM via the My Telstra app or by visiting a Telstra store.",
-    "eSIM_FAQs": "eSIM is available for most plans. You must have an eSIM-compatible device. Telstra has a detailed support page on their website."
+    "eSIM Support": "Yes",
+    "eSIM Page": "https://www.telstra.com.au/support/mobiles-devices/esim-help",
+    "How to get eSIM": "You can request an eSIM via the My Telstra app or by visiting a Telstra store.",
+    "eSIM FAQs": "eSIM is available for most plans. You must have an eSIM-compatible device. Telstra has a detailed support page on their website."
   },
   "Aldi Mobile": {
     "eSIM_Support": "No",
