@@ -2,7 +2,7 @@
   "Telstra": {
     "eSIM Support": "Yes",
     "Carrier Support": "https://www.telstra.com.au/support/mobiles-devices/transfer-esim",
-    "eSIM Summary": "There are multiple ways to use eSIM with Telstra. You can use Carrier Activation, eSIM Quick Transfer & other activation methods such as the app and website.\n The Account Holder may need their Telstra ID credentials to sign in to completed the transfer.",
+    "eSIM Summary": "There are multiple ways to use eSIM with Telstra. You can use Carrier Activation, eSIM Quick Transfer & other activation methods such as the app and website.\n\n The Account Holder may need their Telstra ID credentials to sign in to completed the transfer.",
     "Other Information": ""
   },
   "Optus": {
