@@ -5,6 +5,13 @@
     "How_to_get_eSIM": "You can request an eSIM via the My Telstra app or by visiting a Telstra store.",
     "eSIM_FAQs": "eSIM is available for most plans. You must have an eSIM-compatible device. Telstra has a detailed support page on their website."
   },
+  "Aldi Mobile": {
+    "eSIM_Support": "No",
+    "eSIM_Page": "",
+    "How_to_get_eSIM": "",
+    "eSIM_Alert": "eSIM is not supported until October, position Carrier Activation."
+    "eSIM_FAQs": "eSIM is available for most plans. You must have an eSIM-compatible device. Telstra has a detailed support page on their website."
+  },
   "Optus": {
     "eSIM_Support": "Yes",
     "eSIM_Page": "https://www.optus.com.au/support/esim",
