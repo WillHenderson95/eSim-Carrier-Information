@@ -37,7 +37,8 @@
     "Other Information": ""
   },
   "Aussie Broadband": {
-    "eSIM Support": "No"
+    "eSIM Support": "No",
+    "eSIM Alert": "eSIM is not supported. Position Carrier Activation in store"
   },
   "Amaysim": {
     "eSIM Support": "Yes",
