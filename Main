@@ -22,7 +22,7 @@
     "Carrier Support": "https://www.aldimobile.com.au/pages/esim?srsltid=AfmBOopadyCZ04zNCwi_MiWQJJMHJv-AsRSqdqmjHFP7cj5pzy46J4aA",
     "eSIM Summary": "No Support for eSIM with Aldi Mobile until October 2025.",
     "Other Information": "",
-    "eSIM Alert": "eSIM is not supported until October 2025. Position Carrier Activation in store."
+    "eSIM Alert": "eSIM is not supported until October 2025.\n\nPosition Carrier Activation in store."
   },
   "TPG": {
     "eSIM Support": "Yes",
@@ -38,7 +38,7 @@
   },
   "Aussie Broadband": {
     "eSIM Support": "No",
-    "eSIM Alert": "eSIM is not supported. Position Carrier Activation in store."
+    "eSIM Alert": "eSIM is not supported.\n\nPosition Carrier Activation in store."
   },
   "Amaysim": {
     "eSIM Support": "Yes",
