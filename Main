@@ -2,7 +2,7 @@
   "Telstra": {
     "eSIM Support": "Yes",
     "Carrier Support": "https://www.telstra.com.au/support/mobiles-devices/transfer-esim",
-    "eSIM Summary": "There are multiple ways to use eSIM with Telstra. You can use Carrier Activation, eSIM Quick Transfer & other activation methods such as the app and website.\n\n The Account Holder may need their Telstra ID credentials to sign in to completed the transfer.",
+    "eSIM Summary": "There are multiple ways to use eSIM with Telstra. You can use Carrier Activation, eSIM Quick Transfer & other activation methods such as the app and website.\n\nThe Account Holder may need their Telstra ID credentials to sign in to completed the transfer.",
     "Other Information": ""
   },
   "Optus": {
@@ -33,7 +33,7 @@
   "Belong": {
     "eSIM Support": "Yes",
     "Carrier Support": "https://www.belong.com.au/support/mobile/swap-to-esim-on-an-apple-device",
-    "eSIM Summary": "To swap to an eSIM on an Apple device, you can use either the Belong website or the Belong app on the previous device. Both methods require you to log in to your account, select ‘Move to a new SIM’, and enter the code sent to your mobile number.",
+    "eSIM Summary": "To swap to an eSIM on an Apple device, you can use either the Belong website or the Belong app on the previous device.\n\nBoth methods require you to log in to your account, select ‘Move to a new SIM’, and enter the code sent to your mobile number.",
     "Other Information": ""
   },
   "Aussie Broadband": {
