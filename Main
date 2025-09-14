@@ -9,7 +9,7 @@
     "eSIM Support": "Yes",
     "Carrier Support": "https://www.optus.com.au/support/answer/a_guide_to_esim_20000?utm_source=aisearch-oca",
     "eSIM Summary": "You can request an eSIM via the My Optus app or by visiting an Optus store.",
-    "Other Information": "Hewwo Prwincess"
+    "Other Information": ""
   },
   "Vodafone": {
     "eSIM Support": "Yes",
@@ -30,5 +30,11 @@
     "eSIM Summary": "eSIM will need to be swapped using Account Credentials",
     "Other Information": "",
     "eSIM Alert": "eSIM is not supported until October 2025. Position Carrier Activation in store"
-  }
+  },
+  "Belong": {
+    "eSIM Support": "Yes",
+    "Carrier Support": "https://www.belong.com.au/support/mobile/swap-to-esim-on-an-apple-device",
+    "eSIM Summary": "To swap to an eSIM on an Apple device, you can use either the Belong website or the Belong app on the previous device. Both methods require you to log in to your account, select ‘Move to a new SIM’, and enter the code sent to your mobile number.",
+    "Other Information": ""
+  },
 }
