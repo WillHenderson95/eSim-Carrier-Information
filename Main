@@ -43,7 +43,7 @@
   "Amaysim": {
     "eSIM Support": "Yes",
     "Carrier Support": "https://www.amaysim.com.au/sim-plans/esim",
-    "eSIM Summary": "To swap to an eSIM on an Apple device, you can use either the Belong website or the Belong app on the previous device.\n\nBoth methods require you to log in to your account, select ‘Move to a new SIM’, and enter the code sent to your mobile number.",
+    "eSIM Summary": "To set up an eSIM, on the new device download the Amaysim app from the App store and login to your account.\n\nSelect the 'Replace SIM' option and follow the prompts to complete the eSIM setup.\n\nThere will be some MFA codes needed in the process.",
     "Other Information": ""
   },
   "Everyday Mobile": {
