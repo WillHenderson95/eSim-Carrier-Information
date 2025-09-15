@@ -2,13 +2,13 @@
   "Telstra": {
     "eSIM Support": "Yes",
     "Carrier Support": "https://www.telstra.com.au/support/mobiles-devices/transfer-esim",
-    "eSIM Summary": "There are multiple ways to use eSIM with Telstra. You can use Carrier Activation, eSIM Quick Transfer & other activation methods such as the app and website.\n\nThe Account Holder may need their Telstra ID credentials to sign in to completed the transfer.",
+    "eSIM Summary": "There are multiple ways to use eSIM with Telstra. You can use Carrier Activation, eSIM Quick Transfer & other activation methods such as the app and website.\n\nThe Account Holder may need their Telstra ID credentials to sign in to complete the transfer.",
     "Other Information": ""
   },
   "Optus": {
     "eSIM Support": "Yes",
     "Carrier Support": "https://www.optus.com.au/support/answer/a_guide_to_esim_20000?utm_source=aisearch-oca",
-    "eSIM Summary": "You can request an eSIM via the My Optus app or by visiting an Optus store.",
+    "eSIM Summary": "There are multiple ways to use eSIM with Optus. You can use Carrier Activation, eSIM Quick Transfer & other activation methods such as the app and website.\n\nThe Account Holder may need their Optus Account credentials to sign in to complete the transfer.",
     "Other Information": ""
   },
   "Vodafone": {
@@ -55,5 +55,11 @@
   "Coles Mobile": {
     "eSIM Support": "No",
     "eSIM Alert": "eSIM is not supported.\n\nPosition Carrier Activation in store."
-  }
+  },
+  "Boost Mobile": {
+    "eSIM Support": "Yes",
+    "Carrier Support": "https://boost.com.au/pages/esim?gclsrc=aw.ds&gad_source=1&gad_campaignid=11587075802&gbraid=0AAAAADsN0Sk82j4dBQp9inG8ls-_M9Gj9&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ1L4ITHsAFJepbEe3Bo9Sz0GgcRH_QY7s-YAqLoIKY4X-txyo142b4aAs3zEALw_wcB",
+    "eSIM Summary": "",
+    "Other Information": ""
+}
 }
