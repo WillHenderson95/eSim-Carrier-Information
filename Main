@@ -14,8 +14,8 @@
   "Vodafone": {
     "eSIM Support": "Yes",
     "Carrier Support": "https://www.vodafone.com.au/support/mobile-devices/esim",
-    "eSIM Summary": "You can request an eSIM via the My Vodafone app or by visiting a Vodafone store.",
-    "Other Information": ""
+    "eSIM Summary": "There are multiple ways to use eSIM with Vodafone. You can use Carrier Activation, eSIM Quick Transfer & other activation methods such as the app and website.\n\nThe Account Holder may need their Vodafone Account credentials or PIN to sign in to complete the transfer.",
+    "Other Information": "We can also use the Vodafone eSIM Quick Transfer method if the customer has both devices with them and both devices are on iOS 16 or later.\n\nWe can also assist with SIM Swaps."
   },
   "Aldi Mobile": {
     "eSIM Support": "No",
